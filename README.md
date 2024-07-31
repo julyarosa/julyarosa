@@ -1,15 +1,13 @@
-## Hi there 👋
 
-<!--
-**julyarosa/julyarosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Boas vindas ao meu perfil 
 
-Here are some ideas to get you started:
+Meu nome é julya rosa
 
-- 🌱 Atualmente estou aprendendo alura
-- 👯 Procuro colaborar em tudo
-- 🤔 Estou procurando ajuda com nada
-- 💬 Pergunte-me sobre qualquer coisa
-- 📫 Como entrar em contato comigo: 00001118914880SP@al.educacao.sp.gov.br
-- 😄 Pronomes: ela/ dela
-- ⚡ Curiosidade: ...
--->
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvido
+-
+- Você pode entrar em contato comigo :
+
+00001118914880SP@al.educacao.sp.gov.br
+
